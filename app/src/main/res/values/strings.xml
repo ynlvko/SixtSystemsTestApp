@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="hint_first_name">First name</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="item_save">Save</string>
+    <string name="label_empty_view">There are no items</string>
+    <string name="error_empty_field">This field should not be empty</string>
+    <string name="action_undo">Undo</string>
+    <string name="label_item_deleted">%s deleted</string>
+</resources>
